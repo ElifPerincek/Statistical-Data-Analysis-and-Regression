@@ -1,3 +1,4 @@
+package statistical_analysis;
 
 import javax.swing.*;
 import java.util.ArrayList;
@@ -9,7 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Collections;
 
-public class Elif_Perincek_231213020_Ist_ve_Iht_Odev2 {
+public class statistical_analysis; {
 
     private static List<Double> bagimsizDegisken1=new ArrayList<>();//alan
     private static List<Double> bagimsizDegisken2=new ArrayList<>();//yatakodası sayısı
