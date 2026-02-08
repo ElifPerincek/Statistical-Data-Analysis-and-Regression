@@ -1,4 +1,3 @@
-package elif_perincek_231213020_ıst_ve_ıht_odev2;
 
 import javax.swing.*;
 import java.util.ArrayList;
